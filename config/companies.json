@@ -1,0 +1,478 @@
+[
+  {
+    "name": "General Motors",
+    "tier": 1,
+    "city": "Warren, Detroit, Milford",
+    "feed": {
+      "type": "workday",
+      "host": "generalmotors.wd5.myworkdayjobs.com",
+      "tenant": "generalmotors",
+      "site": "Careers_GM"
+    }
+  },
+  {
+    "name": "Rocket Companies",
+    "tier": 1,
+    "city": "Detroit",
+    "feed": {
+      "type": "workday",
+      "host": "quickenloans.wd5.myworkdayjobs.com",
+      "tenant": "quickenloans",
+      "site": "rocket_careers"
+    }
+  },
+  {
+    "name": "StockX",
+    "tier": 1,
+    "city": "Detroit",
+    "feed": {
+      "type": "greenhouse",
+      "board": "stockx"
+    }
+  },
+  {
+    "name": "Domino's",
+    "tier": 1,
+    "city": "Ann Arbor",
+    "feed": {
+      "type": "smartrecruiters",
+      "company": "Dominos"
+    }
+  },
+  {
+    "name": "May Mobility",
+    "tier": 1,
+    "city": "Ann Arbor",
+    "feed": {
+      "type": "greenhouse",
+      "board": "maymobility"
+    }
+  },
+  {
+    "name": "Censys",
+    "tier": 1,
+    "city": "Ann Arbor",
+    "feed": {
+      "type": "greenhouse",
+      "board": "censys"
+    }
+  },
+  {
+    "name": "Bosch",
+    "tier": 1,
+    "city": "Farmington Hills, Plymouth",
+    "feed": {
+      "type": "smartrecruiters",
+      "company": "BoschGroup"
+    }
+  },
+  {
+    "name": "Nissan",
+    "tier": 1,
+    "city": "Farmington Hills",
+    "feed": {
+      "type": "workday",
+      "host": "alliance.wd3.myworkdayjobs.com",
+      "tenant": "alliance",
+      "site": "nissanjobs"
+    }
+  },
+  {
+    "name": "Booz Allen (Detroit)",
+    "tier": 1,
+    "city": "Detroit",
+    "feed": {
+      "type": "workday",
+      "host": "bah.wd1.myworkdayjobs.com",
+      "tenant": "bah",
+      "site": "bah_jobs"
+    }
+  },
+  {
+    "name": "Reply",
+    "tier": 1,
+    "city": "Detroit",
+    "feed": {
+      "type": "lever",
+      "board": "reply"
+    }
+  },
+  {
+    "name": "Magna",
+    "tier": 1,
+    "city": "Troy, Auburn Hills, Southfield",
+    "feed": {
+      "type": "workday",
+      "host": "magna.wd3.myworkdayjobs.com",
+      "tenant": "magna",
+      "site": "Magna"
+    }
+  },
+  {
+    "name": "Aptiv",
+    "tier": 2,
+    "city": "Troy",
+    "feed": {
+      "type": "workday",
+      "host": "aptiv.wd5.myworkdayjobs.com",
+      "tenant": "aptiv",
+      "site": "aptiv_careers"
+    }
+  },
+  {
+    "name": "BorgWarner",
+    "tier": 2,
+    "city": "Auburn Hills",
+    "feed": {
+      "type": "workday",
+      "host": "borgwarner.wd5.myworkdayjobs.com",
+      "tenant": "borgwarner",
+      "site": "BorgWarner_Careers"
+    }
+  },
+  {
+    "name": "HARMAN",
+    "tier": 2,
+    "city": "Novi",
+    "feed": {
+      "type": "workday",
+      "host": "harman.wd3.myworkdayjobs.com",
+      "tenant": "harman",
+      "site": "HARMAN"
+    }
+  },
+  {
+    "name": "Cooper Standard",
+    "tier": 2,
+    "city": "Novi",
+    "feed": {
+      "type": "workday",
+      "host": "cooperstandard.wd1.myworkdayjobs.com",
+      "tenant": "cooperstandard",
+      "site": "CooperStandard"
+    }
+  },
+  {
+    "name": "Mercedes-Benz R&D North America",
+    "tier": 2,
+    "city": "Ann Arbor",
+    "feed": {
+      "type": "lever",
+      "board": "MBRDNA"
+    }
+  },
+  {
+    "name": "Torc Robotics",
+    "tier": 2,
+    "city": "Ann Arbor",
+    "feed": {
+      "type": "greenhouse",
+      "board": "torcrobotics"
+    }
+  },
+  {
+    "name": "KLA",
+    "tier": 2,
+    "city": "Ann Arbor",
+    "feed": {
+      "type": "workday",
+      "host": "kla.wd1.myworkdayjobs.com",
+      "tenant": "kla",
+      "site": "UR"
+    }
+  },
+  {
+    "name": "GE Aerospace",
+    "tier": 2,
+    "city": "Livonia",
+    "feed": {
+      "type": "workday",
+      "host": "geaerospace.wd5.myworkdayjobs.com",
+      "tenant": "geaerospace",
+      "site": "ge_externalsite"
+    }
+  },
+  {
+    "name": "Valeo",
+    "tier": 2,
+    "city": "Troy, Auburn Hills",
+    "feed": {
+      "type": "workday",
+      "host": "valeo.wd3.myworkdayjobs.com",
+      "tenant": "valeo",
+      "site": "valeo_jobs"
+    }
+  },
+  {
+    "name": "Corewell Health",
+    "tier": 2,
+    "city": "Southfield",
+    "feed": {
+      "type": "workday",
+      "host": "spectrumhealth.wd5.myworkdayjobs.com",
+      "tenant": "spectrumhealth",
+      "site": "CorewellHealthCareers"
+    }
+  },
+  {
+    "name": "Huntington Bank",
+    "tier": 2,
+    "city": "Detroit",
+    "feed": {
+      "type": "workday",
+      "host": "huntington.wd12.myworkdayjobs.com",
+      "tenant": "huntington",
+      "site": "HNBcareers"
+    }
+  },
+  {
+    "name": "Accenture",
+    "tier": 2,
+    "city": "Detroit",
+    "feed": {
+      "type": "workday",
+      "host": "accenture.wd103.myworkdayjobs.com",
+      "tenant": "accenture",
+      "site": "AccentureCareers"
+    }
+  },
+  {
+    "name": "automotiveMastermind (S&P Global)",
+    "tier": 2,
+    "city": "Southfield",
+    "feed": {
+      "type": "workday",
+      "host": "spgi.wd5.myworkdayjobs.com",
+      "tenant": "spgi",
+      "site": "aM_Careers"
+    }
+  },
+  {
+    "name": "Medtronic",
+    "tier": 2,
+    "city": "Dexter",
+    "feed": {
+      "type": "workday",
+      "host": "medtronic.wd1.myworkdayjobs.com",
+      "tenant": "medtronic",
+      "site": "MedtronicCareers"
+    }
+  },
+  {
+    "name": "Bose",
+    "tier": 2,
+    "city": "Bloomfield Hills, Troy",
+    "feed": {
+      "type": "workday",
+      "host": "boseallaboutme.wd503.myworkdayjobs.com",
+      "tenant": "boseallaboutme",
+      "site": "Bose_Careers"
+    }
+  },
+  {
+    "name": "Cigna",
+    "tier": 2,
+    "city": "Bloomfield",
+    "feed": {
+      "type": "workday",
+      "host": "cigna.wd5.myworkdayjobs.com",
+      "tenant": "cigna",
+      "site": "cignacareers"
+    }
+  },
+  {
+    "name": "Slate Auto",
+    "tier": 2,
+    "city": "Troy",
+    "feed": {
+      "type": "workday",
+      "host": "recar.wd108.myworkdayjobs.com",
+      "tenant": "recar",
+      "site": "SLATEcareers"
+    }
+  },
+  {
+    "name": "Continental",
+    "tier": 2,
+    "city": "Auburn Hills",
+    "feed": {
+      "type": "smartrecruiters",
+      "company": "Continental"
+    }
+  },
+  {
+    "name": "MSX International",
+    "tier": 3,
+    "city": "Southfield",
+    "feed": {
+      "type": "smartrecruiters",
+      "company": "MSXInternational"
+    }
+  },
+  {
+    "name": "CACI",
+    "tier": 3,
+    "city": "Ypsilanti",
+    "feed": {
+      "type": "workday",
+      "host": "caci.wd1.myworkdayjobs.com",
+      "tenant": "caci",
+      "site": "external"
+    }
+  },
+  {
+    "name": "Amentum",
+    "tier": 3,
+    "city": "Detroit",
+    "feed": {
+      "type": "workday",
+      "host": "pae.wd1.myworkdayjobs.com",
+      "tenant": "pae",
+      "site": "amentum_careers"
+    }
+  },
+  {
+    "name": "Zekelman Industries",
+    "tier": 3,
+    "city": "Troy",
+    "feed": {
+      "type": "workday",
+      "host": "zekelman.wd12.myworkdayjobs.com",
+      "tenant": "zekelman",
+      "site": "Careers"
+    }
+  },
+  {
+    "name": "Plastipak",
+    "tier": 3,
+    "city": "Plymouth",
+    "feed": {
+      "type": "workday",
+      "host": "plastipak.wd1.myworkdayjobs.com",
+      "tenant": "plastipak",
+      "site": "Plastipak"
+    }
+  },
+  {
+    "name": "TRUMPF",
+    "tier": 3,
+    "city": "Plymouth",
+    "feed": {
+      "type": "workday",
+      "host": "trumpf.wd3.myworkdayjobs.com",
+      "tenant": "trumpf",
+      "site": "TRUMPF_Students"
+    }
+  },
+  {
+    "name": "Momentive",
+    "tier": 3,
+    "city": "Waterford",
+    "feed": {
+      "type": "workday",
+      "host": "momentive.wd1.myworkdayjobs.com",
+      "tenant": "momentive",
+      "site": "MC"
+    }
+  },
+  {
+    "name": "Sun Life",
+    "tier": 3,
+    "city": "Waterford",
+    "feed": {
+      "type": "workday",
+      "host": "sunlife.wd3.myworkdayjobs.com",
+      "tenant": "sunlife",
+      "site": "Experienced-Jobs"
+    }
+  },
+  {
+    "name": "NOX Metals",
+    "tier": 3,
+    "city": "Detroit",
+    "feed": {
+      "type": "ashby",
+      "board": "nox-metals"
+    }
+  },
+  {
+    "name": "Mariana Minerals",
+    "tier": 3,
+    "city": "Ann Arbor",
+    "feed": {
+      "type": "ashby",
+      "board": "marianaminerals"
+    }
+  },
+  {
+    "name": "Blockhouse",
+    "tier": 3,
+    "city": "Detroit",
+    "feed": {
+      "type": "ashby",
+      "board": "blockhouse"
+    }
+  },
+  {
+    "name": "Detroit Lions",
+    "tier": 3,
+    "city": "Allen Park",
+    "feed": {
+      "type": "greenhouse",
+      "board": "detroitlions"
+    }
+  },
+  {
+    "name": "Geotab",
+    "tier": 3,
+    "city": "Detroit",
+    "feed": {
+      "type": "greenhouse",
+      "board": "internshiplist2000"
+    }
+  },
+  {
+    "name": "PHINIA",
+    "tier": 3,
+    "city": "Auburn Hills",
+    "feed": {
+      "type": "workday",
+      "host": "phinia.wd5.myworkdayjobs.com",
+      "tenant": "phinia",
+      "site": "PHINIA_Careers"
+    }
+  },
+  {
+    "name": "Johnson Electric",
+    "tier": 3,
+    "city": "Plymouth",
+    "feed": {
+      "type": "workday",
+      "host": "johnsonelectric.wd3.myworkdayjobs.com",
+      "tenant": "johnsonelectric",
+      "site": "Career_JE"
+    }
+  },
+  {
+    "name": "Oshkosh",
+    "tier": 3,
+    "city": "Wixom",
+    "feed": {
+      "type": "workday",
+      "host": "oshkoshcorporation.wd5.myworkdayjobs.com",
+      "tenant": "oshkoshcorporation",
+      "site": "Oshkosh"
+    }
+  },
+  {
+    "name": "Flex",
+    "tier": 3,
+    "city": "Southfield",
+    "feed": {
+      "type": "workday",
+      "host": "flextronics.wd1.myworkdayjobs.com",
+      "tenant": "flextronics",
+      "site": "Careers"
+    }
+  }
+]
