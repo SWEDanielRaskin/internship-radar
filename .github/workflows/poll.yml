@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "23 */2 * * *"   # every 2 hours, off the top of the hour
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "config/**"
+      - "poller/**"
+      - ".github/workflows/poll.yml"
 
 permissions:
   contents: write
