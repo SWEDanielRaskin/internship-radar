@@ -1,5 +1,126 @@
 {
- "generated": 1793767790,
+ "generated": 1793803269,
  "window_hours": 72,
- "jobs": []
+ "jobs": [
+  {
+   "key": "workday:General Motors:/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071",
+   "company": "General Motors",
+   "tier": 1,
+   "title": "2027 Summer Intern, Fleet Reliability & Test Engineering, ASD",
+   "location": "Milford, Michigan, United States of America",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071",
+   "posted": "Posted 8 Days Ago",
+   "first_seen": 1793803269,
+   "last_seen": 1793803269,
+   "baseline": false
+  },
+  {
+   "key": "smartrecruiters:Bosch:744000159649749",
+   "company": "Bosch",
+   "tier": 1,
+   "title": "Project Management / Test Engineering Intern",
+   "location": "Plymouth, MI, us",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159649749",
+   "posted": "2026-11-04T14:36:10.784Z",
+   "first_seen": 1793803269,
+   "last_seen": 1793803269,
+   "baseline": false
+  },
+  {
+   "key": "smartrecruiters:Bosch:744000159640003",
+   "company": "Bosch",
+   "tier": 1,
+   "title": "Undergraduate Placement Year 2027 \u2013 Data Privacy Intern",
+   "location": "Worcester, England, gb",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159640003",
+   "posted": "2026-11-04T14:03:20.060Z",
+   "first_seen": 1793803269,
+   "last_seen": 1793803269,
+   "baseline": false
+  },
+  {
+   "key": "smartrecruiters:Bosch:744000159630390",
+   "company": "Bosch",
+   "tier": 1,
+   "title": "Undergraduate Placement Year 2027 \u2013 Engineering Electrified Systems Intern ",
+   "location": "Worcester, England, gb",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159630390",
+   "posted": "2026-11-04T13:24:35.933Z",
+   "first_seen": 1793803269,
+   "last_seen": 1793803269,
+   "baseline": false
+  },
+  {
+   "key": "smartrecruiters:Bosch:744000159615560",
+   "company": "Bosch",
+   "tier": 1,
+   "title": "Undergraduate Placement Year 2027 \u2013Development Engineering - Gas/Hydrogen Intern",
+   "location": "Worcester, England, gb",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159615560",
+   "posted": "2026-11-04T12:11:42.518Z",
+   "first_seen": 1793803269,
+   "last_seen": 1793803269,
+   "baseline": false
+  },
+  {
+   "key": "smartrecruiters:Bosch:744000159609659",
+   "company": "Bosch",
+   "tier": 1,
+   "title": "Undergraduate Placement Year 2027 \u2013 Manufacturing Engineering Intern",
+   "location": "Chesterfield, England, gb",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159609659",
+   "posted": "2026-11-04T11:32:42.440Z",
+   "first_seen": 1793803269,
+   "last_seen": 1793803269,
+   "baseline": false
+  },
+  {
+   "key": "smartrecruiters:Bosch:744000159551279",
+   "company": "Bosch",
+   "tier": 1,
+   "title": "[Bosch HcP \u2013 Internship] Digital Quality Management System Intern",
+   "location": "An Phuoc Commune, vn",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159551279",
+   "posted": "2026-11-04T06:12:09.125Z",
+   "first_seen": 1793803269,
+   "last_seen": 1793803269,
+   "baseline": false
+  },
+  {
+   "key": "smartrecruiters:Bosch:744000159548369",
+   "company": "Bosch",
+   "tier": 1,
+   "title": "[Bosch R&D \u2013 Internship] Simulation Engineering Intern",
+   "location": "Ho Chi Minh City, vn",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159548369",
+   "posted": "2026-11-04T05:33:14.925Z",
+   "first_seen": 1793803269,
+   "last_seen": 1793803269,
+   "baseline": false
+  },
+  {
+   "key": "workday:GE Aerospace:/job/Bengaluru/Data-Science-Intern_R5040691-1",
+   "company": "GE Aerospace",
+   "tier": 2,
+   "title": "Data Science Intern",
+   "location": "Bengaluru",
+   "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5040691-1",
+   "posted": "Posted Today",
+   "first_seen": 1793803269,
+   "last_seen": 1793803269,
+   "baseline": false
+  },
+  {
+   "key": "workday:Oshkosh:/job/Orlando-Florida-United-States/Engineer-Intern---Controls--Summer-2027-_R51717",
+   "company": "Oshkosh",
+   "tier": 3,
+   "title": "Engineer Intern - Controls (Summer 2027)",
+   "location": "Orlando, Florida, United States",
+   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orlando-Florida-United-States/Engineer-Intern---Controls--Summer-2027-_R51717",
+   "posted": "Posted Today",
+   "first_seen": 1793803269,
+   "last_seen": 1793803269,
+   "baseline": false
+  }
+ ]
 }
