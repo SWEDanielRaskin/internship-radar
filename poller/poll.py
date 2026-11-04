@@ -39,7 +39,14 @@ SOFTWARE = re.compile(
     r"cyber|security|\bit\b|information technology|digital|automation|analytics|computer",
     re.I,
 )
-EXCLUDE = re.compile(r"\bph\.?d\b|doctoral|\bmba\b|\bsenior\b|\bstaff\b|\bprincipal\b", re.I)
+# Summer undergraduate internships only: drop graduate-level, full-time, and non-summer terms.
+EXCLUDE = re.compile(
+    r"\bph\.?d\b|doctoral|\bmba\b|master'?s|\bms\b|graduate intern|post-?doc|"
+    r"\bsenior\b|\bstaff\b|\bprincipal\b|new grad|entry[- ]level|full[- ]time|"
+    r"year[- ]round|\d+\s*[- ]?months?|\bfall\b|\bspring\b|\bwinter\b|"
+    r"\bjan(uary)?\b|\bsept?(ember)?\b|\baug(ust)?\s*-",
+    re.I,
+)
 
 
 def http_json(url, payload=None):
