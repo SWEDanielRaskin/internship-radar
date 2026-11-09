@@ -1,5 +1,5 @@
 {
- "generated": 1794181604,
+ "generated": 1794206882,
  "window_hours": 72,
  "jobs": [
   {
@@ -7,7 +7,7 @@
    "baseline": false,
    "company": "KLA",
    "first_seen": 1794010129,
-   "last_seen": 1794181604,
+   "last_seen": 1794206882,
    "location": "Milpitas, CA",
    "posted": "Posted Today",
    "tier": 2,
@@ -19,7 +19,7 @@
    "baseline": false,
    "company": "Booz Allen (Detroit)",
    "first_seen": 1793993381,
-   "last_seen": 1794181604,
+   "last_seen": 1794206882,
    "location": "Lexington Park, MD",
    "posted": "Posted Today",
    "tier": 1,
@@ -67,7 +67,7 @@
    "baseline": false,
    "company": "KLA",
    "first_seen": 1793993381,
-   "last_seen": 1794181604,
+   "last_seen": 1794206882,
    "location": "Milpitas, CA",
    "posted": "Posted Today",
    "tier": 2,
@@ -79,7 +79,7 @@
    "baseline": false,
    "company": "Oshkosh",
    "first_seen": 1793993381,
-   "last_seen": 1794181604,
+   "last_seen": 1794206882,
    "location": "McConnellsburg, Pennsylvania, United States",
    "posted": "Posted Today",
    "tier": 3,
@@ -91,7 +91,7 @@
    "baseline": false,
    "company": "Flex",
    "first_seen": 1793967169,
-   "last_seen": 1794181604,
+   "last_seen": 1794206882,
    "location": "Italy, Milano",
    "posted": "Posted Today",
    "tier": 3,
@@ -109,18 +109,6 @@
    "tier": 1,
    "title": "2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439"
-  },
-  {
-   "key": "workday:GE Aerospace:/job/Bohemia/Propulsion-Performance-Engineering-Intern---Bohemia--NY---Summer-2027_R5042754-2",
-   "baseline": false,
-   "company": "GE Aerospace",
-   "first_seen": 1793932335,
-   "last_seen": 1794181604,
-   "location": "Bohemia",
-   "posted": "Posted Today",
-   "tier": 2,
-   "title": "Propulsion Performance Engineering Intern - Bohemia, NY - Summer 2027",
-   "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Bohemia/Propulsion-Performance-Engineering-Intern---Bohemia--NY---Summer-2027_R5042754-2"
   }
  ]
 }
