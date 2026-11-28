@@ -1,278 +1,278 @@
 {
  "Accenture": {
-  "checked": 1795819499,
+  "checked": 1795852737,
   "error": null,
-  "matches": 6,
+  "matches": 0,
   "ok": true
  },
  "Amentum": {
-  "checked": 1795819499,
-  "error": null,
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "matches": 0,
-  "ok": true
+  "ok": false
  },
  "Aptiv": {
-  "checked": 1795819499,
-  "error": null,
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "matches": 0,
-  "ok": true
+  "ok": false
  },
  "Blockhouse": {
-  "checked": 1795819499,
+  "checked": 1795852737,
   "error": null,
   "matches": 0,
   "ok": true
  },
  "Booz Allen (Detroit)": {
-  "checked": 1795819499,
-  "error": null,
-  "matches": 14,
-  "ok": true
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "matches": 0,
+  "ok": false
  },
  "BorgWarner": {
-  "checked": 1795819499,
-  "error": null,
-  "matches": 8,
-  "ok": true
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "matches": 0,
+  "ok": false
  },
  "Bosch": {
-  "checked": 1795819499,
+  "checked": 1795852737,
   "error": null,
   "matches": 65,
   "ok": true
  },
  "Bose": {
-  "checked": 1795819499,
+  "checked": 1795852737,
   "error": null,
   "matches": 8,
   "ok": true
  },
  "CACI": {
-  "checked": 1795819499,
-  "error": null,
-  "matches": 4,
-  "ok": true
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "matches": 0,
+  "ok": false
  },
  "Censys": {
-  "checked": 1795819499,
+  "checked": 1795852737,
   "error": null,
   "matches": 0,
   "ok": true
  },
  "Cigna": {
-  "checked": 1795819499,
-  "error": null,
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "matches": 0,
-  "ok": true
+  "ok": false
  },
  "Continental": {
-  "checked": 1795819499,
+  "checked": 1795852737,
   "error": null,
   "matches": 7,
   "ok": true
  },
  "Cooper Standard": {
-  "checked": 1795819499,
-  "error": null,
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "matches": 0,
-  "ok": true
+  "ok": false
  },
  "Corewell Health": {
-  "checked": 1795819499,
-  "error": null,
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "matches": 0,
-  "ok": true
+  "ok": false
  },
  "Detroit Lions": {
-  "checked": 1795819499,
+  "checked": 1795852737,
   "error": null,
   "matches": 0,
   "ok": true
  },
  "Domino's": {
-  "checked": 1795819499,
+  "checked": 1795852737,
   "error": null,
   "matches": 0,
   "ok": true
  },
  "Flex": {
-  "checked": 1795819499,
-  "error": null,
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "matches": 0,
-  "ok": true
+  "ok": false
  },
  "GE Aerospace": {
-  "checked": 1795819499,
-  "error": null,
-  "matches": 6,
-  "ok": true
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "matches": 0,
+  "ok": false
  },
  "General Motors": {
-  "checked": 1795819499,
-  "error": null,
-  "matches": 19,
-  "ok": true
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "matches": 0,
+  "ok": false
  },
  "Geotab": {
-  "checked": 1795819499,
+  "checked": 1795852737,
   "error": null,
   "matches": 0,
   "ok": true
  },
  "HARMAN": {
-  "checked": 1795819499,
-  "error": null,
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "matches": 0,
-  "ok": true
+  "ok": false
  },
  "Huntington Bank": {
-  "checked": 1795819499,
+  "checked": 1795852737,
   "error": null,
   "matches": 0,
   "ok": true
  },
  "Johnson Electric": {
-  "checked": 1795819499,
-  "error": null,
-  "matches": 1,
-  "ok": true
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "matches": 0,
+  "ok": false
  },
  "KLA": {
-  "checked": 1795819499,
-  "error": null,
-  "matches": 36,
-  "ok": true
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "matches": 0,
+  "ok": false
  },
  "MSX International": {
-  "checked": 1795819499,
+  "checked": 1795852737,
   "error": null,
   "matches": 0,
   "ok": true
  },
  "Magna": {
-  "checked": 1795819499,
-  "error": null,
-  "matches": 14,
-  "ok": true
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "matches": 0,
+  "ok": false
  },
  "Mariana Minerals": {
-  "checked": 1795819499,
+  "checked": 1795852737,
   "error": null,
   "matches": 0,
   "ok": true
  },
  "May Mobility": {
-  "checked": 1795819499,
+  "checked": 1795852737,
   "error": null,
   "matches": 0,
   "ok": true
  },
  "Medtronic": {
-  "checked": 1795819499,
-  "error": null,
-  "matches": 5,
-  "ok": true
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "matches": 0,
+  "ok": false
  },
  "Mercedes-Benz R&D North America": {
-  "checked": 1795819499,
+  "checked": 1795852737,
   "error": null,
   "matches": 0,
   "ok": true
  },
  "Momentive": {
-  "checked": 1795819499,
-  "error": null,
-  "matches": 1,
-  "ok": true
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "matches": 0,
+  "ok": false
  },
  "NOX Metals": {
-  "checked": 1795819499,
+  "checked": 1795852737,
   "error": null,
   "matches": 0,
   "ok": true
  },
  "Nissan": {
-  "checked": 1795819499,
-  "error": null,
-  "matches": 19,
-  "ok": true
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "matches": 0,
+  "ok": false
  },
  "Oshkosh": {
-  "checked": 1795819499,
-  "error": null,
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "matches": 0,
-  "ok": true
+  "ok": false
  },
  "PHINIA": {
-  "checked": 1795819499,
-  "error": null,
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "matches": 0,
-  "ok": true
+  "ok": false
  },
  "Plastipak": {
-  "checked": 1795819499,
-  "error": null,
-  "matches": 1,
-  "ok": true
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "matches": 0,
+  "ok": false
  },
  "Reply": {
-  "checked": 1795819499,
+  "checked": 1795852737,
   "error": null,
   "matches": 0,
   "ok": true
  },
  "Rocket Companies": {
-  "checked": 1795819499,
-  "error": null,
-  "matches": 1,
-  "ok": true
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "matches": 0,
+  "ok": false
  },
  "Slate Auto": {
-  "checked": 1795819499,
+  "checked": 1795852737,
   "error": null,
   "matches": 0,
   "ok": true
  },
  "StockX": {
-  "checked": 1795819499,
+  "checked": 1795852737,
   "error": null,
   "matches": 0,
   "ok": true
  },
  "Sun Life": {
-  "checked": 1795819499,
-  "error": null,
-  "matches": 2,
-  "ok": true
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "matches": 0,
+  "ok": false
  },
  "TRUMPF": {
-  "checked": 1795819499,
-  "error": null,
-  "matches": 2,
-  "ok": true
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "matches": 0,
+  "ok": false
  },
  "Torc Robotics": {
-  "checked": 1795819499,
+  "checked": 1795852737,
   "error": null,
   "matches": 0,
   "ok": true
  },
  "Valeo": {
-  "checked": 1795819499,
-  "error": null,
-  "matches": 7,
-  "ok": true
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "matches": 0,
+  "ok": false
  },
  "Zekelman Industries": {
-  "checked": 1795819499,
+  "checked": 1795852737,
   "error": null,
   "matches": 12,
   "ok": true
  },
  "automotiveMastermind (S&P Global)": {
-  "checked": 1795819499,
-  "error": null,
+  "checked": 1795852737,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "matches": 0,
-  "ok": true
+  "ok": false
  }
 }
